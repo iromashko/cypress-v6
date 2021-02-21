@@ -1,56 +1,5 @@
 {
-  "todos": [
-    {
-      "name": "hello",
-      "id": 534,
-      "isComplete": true
-    },
-    {
-      "name": "jlskdjf",
-      "id": 3687,
-      "isComplete": true
-    },
-    {
-      "name": "lskjdfl",
-      "id": 5216,
-      "isComplete": true
-    },
-    {
-      "name": "slkdjf",
-      "id": 760,
-      "isComplete": false
-    },
-    {
-      "name": "First Todo",
-      "id": 24,
-      "isComplete": false
-    },
-    {
-      "name": "First Todo",
-      "id": 6430,
-      "isComplete": false
-    },
-    {
-      "name": "First Todo",
-      "id": 5966,
-      "isComplete": false
-    },
-    {
-      "name": "sdfsdf",
-      "id": 5883,
-      "isComplete": false
-    },
-    {
-      "name": "First Todo",
-      "id": 7819,
-      "isComplete": false
-    },
-    {
-      "name": "First Todo",
-      "id": 3508,
-      "isComplete": false
-    }
-  ],
+  "todos": [],
   "users": [
     {
       "email": "olivier@mail.com",
